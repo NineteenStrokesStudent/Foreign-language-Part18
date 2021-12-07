@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">357</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15280928-0f20-4bab-99bd-097630004dad</dc:identifier>
+        <dc:title>Brandenburg: A Thriller</dc:title>
+        <dc:creator opf:file-as="Meade, Glenn" opf:role="aut">Glenn Meade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.31) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;b&gt;Uploaded by toocool81&lt;/b&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="description"&gt;A secret that must never be revealed. . . . An evil never meant to be repeated. . . . Seventy years ago, the greatest crime against humanity was committed. Today it’s only a heartbeat away from happening again. In Paraguay, an elderly businessman kills himself. In Berlin, a neo-Nazi is gunned down in the street. Trying to connect the murders, intelligence agent Joe Volkmann, aided by a beautiful young German journalist, travels to Paraguay and discovers a clue—the charred remains of an old black-and-white photograph in a remote jungle house. A photograph that holds the first key to an extraordinary secret—and a plot to create the Fourth Reich. Volkmann soon uncovers that a string of bizarre killings around the world are all linked by a single purpose. And he also discovers that the journalist he trusted, Erica Kranz, is somehow linked to the plan. Haunted by the ghosts of the past, and desperate to unearth an extraordinary secret, Volkmann and Kranz are plunged into a dangerous world of terrorism, fanaticism, and deception as they stare true evil in the face.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008J2ADTY</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oPIDo9Q6sXwC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781451688238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Espionage</dc:subject>
+        <meta content="{&quot;Glenn Meade&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-04-26T17:51:12+00:00" name="calibre:timestamp"/>
+        <meta content="Brandenburg: A Thriller" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

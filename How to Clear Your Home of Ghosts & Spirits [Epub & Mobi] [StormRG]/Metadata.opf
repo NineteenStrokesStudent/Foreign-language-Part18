@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0b50e4a-3799-41c4-93bc-711a057c0134</dc:identifier>
+        <dc:title>How to Clear Your Home of Ghosts &amp; Spirits</dc:title>
+        <dc:creator opf:file-as="Chestnut, Debi" opf:role="aut">Debi Chestnut</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-28T14:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;When it comes to spirits and specters, knowledge is power and fear is the enemy&lt;/b&gt;&lt;p&gt;&lt;i&gt;How to Clear Your Home of Ghosts &amp; Spirits&lt;/i&gt; is a guide to everything you need to know to get rid of ghosts. Providing a brief history of haunts and delving into her own personal experiences, paranormal researcher Debi Chestnut sheds light on the different types of ghosts&amp;#8212;from harmless spirits to destructive entities&amp;#8212;and gives tips and techniques for clearing them.&lt;p&gt;Join Debi as she explores how ghosts and spirits can be accidentally invited into the home and shows how to choose a paranormal team for extreme cases. Written in a no-nonsense style by an author with years of experience, this guide is a must-have for those who prefer to live with the facts instead of living in fear.</dc:description>
+        <dc:publisher>Llewellyn Worldwide, LTD.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paranormal</dc:subject>
+        <dc:subject>poltergeist</dc:subject>
+        <dc:subject>ghost</dc:subject>
+        <dc:subject>ghost hunting</dc:subject>
+        <dc:subject>spirit communication</dc:subject>
+        <dc:subject>true ghost</dc:subject>
+        <dc:subject>haunted</dc:subject>
+        <dc:subject>how to get rid of ghosts</dc:subject>
+        <dc:subject>haunting</dc:subject>
+        <dc:subject>real haunting</dc:subject>
+        <dc:subject>real ghost</dc:subject>
+        <dc:subject>true haunting</dc:subject>
+        <meta content="{&quot;Debi Chestnut&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-06-17T06:23:21+00:00" name="calibre:timestamp"/>
+        <meta content="How to Clear Your Home of Ghosts &amp; Spirits" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="How to Clear Your Home of Ghosts &amp; Spirits - Debi Chestnut.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

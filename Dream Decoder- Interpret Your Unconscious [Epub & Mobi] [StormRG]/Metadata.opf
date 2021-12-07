@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57e5b0ac-5d39-4b2d-a8fe-62804d125736</dc:identifier>
+        <dc:title>Dream Decoder</dc:title>
+        <dc:creator opf:file-as="Zucker, Jonny, Zucker, Dr. Fiona" opf:role="aut">Zucker, Jonny, Zucker, Dr. Fiona</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-31T14:00:00+00:00</dc:date>
+        <dc:publisher>Skyhorse Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Zucker, Jonny, Zucker, Dr. Fiona&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-09-17T10:14:00+00:00" name="calibre:timestamp"/>
+        <meta content="Dream Decoder" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Dream Decoder - Zucker, Jonny, Zucker, Dr. Fiona.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
